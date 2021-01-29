@@ -1,0 +1,16 @@
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.csprojAssemblyReference.cache
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.AssemblyInfoInputs.cache
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.AssemblyInfo.cs
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.csproj.CoreCompileInputs.cache
+E:\.Net Programming\Ticket2\bin\Debug\net5.0\Ticket2.exe
+E:\.Net Programming\Ticket2\bin\Debug\net5.0\Ticket2.deps.json
+E:\.Net Programming\Ticket2\bin\Debug\net5.0\Ticket2.runtimeconfig.json
+E:\.Net Programming\Ticket2\bin\Debug\net5.0\Ticket2.runtimeconfig.dev.json
+E:\.Net Programming\Ticket2\bin\Debug\net5.0\Ticket2.dll
+E:\.Net Programming\Ticket2\bin\Debug\net5.0\ref\Ticket2.dll
+E:\.Net Programming\Ticket2\bin\Debug\net5.0\Ticket2.pdb
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.dll
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\ref\Ticket2.dll
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.pdb
+E:\.Net Programming\Ticket2\obj\Debug\net5.0\Ticket2.genruntimeconfig.cache
